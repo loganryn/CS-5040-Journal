@@ -12,7 +12,19 @@ Chapter 2:
   Testing and Debugging
   (See project 1 code for examples)
   
+BST:
+  refrehser on how to remove nodes from a BST
+    if (no children) point parent to null
+    if (left child only) point parent to left child
+    if (right child only) point parent to right child
+    if (both children) find smallest value on right child and move it up, then delete where it used to be 
+
 JAVA:
   Downloaded and set up Eclipse, JDK, Web-Cat
   Built a basic BST
   **Classes must each be in their own file!**
+
+Web-Cat:
+  Learned how to use JUnit (sort of) and how to document my code more thoroughly
+ 
+
