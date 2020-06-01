@@ -1,0 +1,18 @@
+Chapter 1:
+  Review of data structure definitions
+  data structure - data and associated operations
+  data type - collection of values (simple or composite)
+  data item - instance of a type
+  ADT - specification of a data type
+  metaphor - using abstraction to represent many small parts 
+  
+Chapter 2: 
+  Parsing with Java
+  Args
+  Testing and Debugging
+  (See project 1 code for examples)
+  
+JAVA:
+  Downloaded and set up Eclipse, JDK, Web-Cat
+  Built a basic BST
+  **Classes must each be in their own file!**
