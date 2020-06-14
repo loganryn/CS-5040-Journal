@@ -1,0 +1,20 @@
+This week, I covered modules 2, 3 and part of 4. 
+
+I struggled with the O(n) comparisons. Here is what I learned
+
+* most important, 2^n. This grows extremely fast
+* second most, n^2 or another power > 1
+* anything with n as a coeficient
+* sqrt n
+* log n
+* multiple log n
+
+I was able to code most of Project 2 this week, but I am having trouble passing webcat tests. I think it is likely due to syntax 
+errors like with project 1. 
+
+I am getting more familiar with Java, but still have to look things up quite often. 
+
+* regex was the big one this week
+
+I also researched the details for post and pre order traversals to answer a question on piazza that had gone unanswered regarding 
+traversals with more than 2 children. 
