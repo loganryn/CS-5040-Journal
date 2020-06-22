@@ -1,0 +1,31 @@
+This week I finished project 2, along with modules 4, 5 and 6. 
+
+CH4: 
+Asymptotic analysis attempts to estimate the resource consumption of an algorithm. It allows us to compare the relative costs of two or more algorithms for solving the same problem.
+
+An algorithm is a recipe for solving a problem whose steps are concrete and unambiguous. Algorithms must be correct, of finite length, and must terminate for all inputs.
+
+The critical resource for a program is most often its running time
+
+The growth rate for an algorithm is the rate at which the cost of the algorithm grows as the size of its input grows
+
+For real-time applications we are likely to prefer a worst-case analysis of an algorithm.
+ 
+The lower bound for an algorithm is denoted by the symbol Ω
+
+
+* I am sorry these journals are lackluster... 
+I just find it hard to motivate myself to write down things when I know in the future if I have 
+questions on any of these topics I will simply google them instead of trying to find it within these journal entries. 
+
+It is less efficient to search through these entries and likely will have less information than I would find with a simple
+google search; in addition to being more clicks away. I cannot think of a single valid reason I would turn to my own notes, 
+especially since our textbook, along with many others, is available and searchable, while this journal is not. 
+To date, I have NEVER used my notes from a class before turning to the internet (aside from taking a test, where the interntet was prohibited)
+For the midterm, I was able to use the openDSA textbook and my knowledge from class to do well, without referencing my journal.
+
+I understand that you will have to take off points from my grade for this, but I will accept that. I am learning though this course
+as evidenced by my project and test grades, along with my contributions to piazza, I just fail to see the benefit of this journal,
+and I believe my time is better spent working on the projects or other work. 
+
+Hopefully this makes sense. Thanks. 
